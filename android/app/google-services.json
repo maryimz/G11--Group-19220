@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614322994184",
+    "firebase_url": "https://florigen-control-default-rtdb.firebaseio.com",
+    "project_id": "florigen-control",
+    "storage_bucket": "florigen-control.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614322994184:android:388f4d85e715ef160725bd",
+        "android_client_info": {
+          "package_name": "com.team19220.florigen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD82Z8FKMTZwwsXW0gFpmRdBf_CjAitrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
