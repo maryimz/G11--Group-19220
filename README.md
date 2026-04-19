@@ -28,6 +28,7 @@ Stable maintenance of environmental parameters
 Immediate detection of deviations
 Rapid recovery to optimal conditions
 Reliable system performance over time
+
 🌍 Applications
 Greenhouse automation
 Precision agriculture systems
