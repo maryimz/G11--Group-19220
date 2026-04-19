@@ -1,16 +1,37 @@
-# florigen
+# Agriculture-Feedback-Control-System
+An intelligent closed-loop system that synchronizes environmental conditions with biological needs for optimized growth.
 
-A new Flutter project.
+📌 Overview
 
-## Getting Started
+This project presents a Symbiotic Environmental Control System designed to automatically regulate key environmental conditions for optimal plant growth using a closed-loop feedback mechanism.
 
-This project is a starting point for a Flutter application.
+⚙️ System Operation
 
-A few resources to get you started if this is your first Flutter project:
+The system continuously monitors environmental parameters including temperature, soil moisture, and humidity.
+Sensor data is compared against predefined setpoints, and any deviation triggers an immediate automated response through actuators such as fans, water pumps, and misting units.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This ensures stable environmental conditions with minimal human intervention.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧠 Key Features
+Real-time environmental monitoring
+Closed-loop feedback control
+High sensing accuracy (±0.5°C, ±2% RH)
+Fast response time to disturbances
+Continuous data logging and analysis
+Fully autonomous operation
+🧪 Performance & Validation
+
+The system was tested under real outdoor conditions over multiple consecutive days.
+Results demonstrated:
+
+Stable maintenance of environmental parameters
+Immediate detection of deviations
+Rapid recovery to optimal conditions
+Reliable system performance over time
+🌍 Applications
+Greenhouse automation
+Precision agriculture systems
+Resource-efficient farming solutions
+
+
+A fully integrated closed-loop system that ensures environmental stability through intelligent feedback-driven regulation.
